@@ -6,8 +6,20 @@ Busan SW Meister Highschool Team Project, It monitoring soil humidity of soil, a
 - @DONGHAE, Dong Hyun, Oh
 - @J1min, Ji Min,Hong
 
+
+
+
+
+
+
+
+
+
 ## Ref. Documents
 ### IoT ( Aduino )
+> https://www.instructables.com/How-to-Use-the-Soil-Hygrometer-Module-Arduino-Tuto/
+
+### IoT - Server
 > https://nordicapis.com/8-open-source-frameworks-for-building-apis-in-python/
 
 ### Server ( Python Flask )
