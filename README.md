@@ -6,7 +6,7 @@ Busan SW Meister Highschool Team Project, It monitoring soil humidity of soil, a
 - @DONGHAEY, Dong Hyeon, Oh
 - @J1min, Ji Min, Hong
 - @MinSeok0123, Min Seok, Lee
-- @dlfnadka, Yea Chan, Kim
+- @dlfmadla, Yea Chan, Kim
 - @mss3380, Min Sae, Kim
 - @sty0507, Tae Young, Seo
 - @kwonminseo051214, Min Seo, Kwon
