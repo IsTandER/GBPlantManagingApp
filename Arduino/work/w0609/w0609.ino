@@ -2,7 +2,7 @@ int LED = 5;
 
 void setup() {
   Serial.begin(9600);
-  pinMode(blue, OUTPUT);
+  pinMode(LED, OUTPUT);
 }
 
 void loop() {
