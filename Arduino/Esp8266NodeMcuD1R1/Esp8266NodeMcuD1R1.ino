@@ -225,4 +225,3 @@ void httpsRequest() {
   Serial.println("==========");
   Serial.println("Closing connection");
 }
-
