@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Idea IDE
+.idea
+
+# database file 
+plants.sqlite3

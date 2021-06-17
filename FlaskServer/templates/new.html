@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+   <body>
+      <h3>Plants Mananging - Flask SQLAlchemy example</h3>
+      <hr/>
+
+      {%- for category, message in get_flashed_messages(with_categories = true) %}
+         <div class = "alert alert-danger">
+            {{ message }}
+         </div>
+      {%- endfor %}
+
+      <form action = "{{ request.path }}" method = "post">
+{#         <label for = "id">ID</label><br>#}
+{#         <input type = "number" name = "id" placeholder = "ID" /><br>#}
+         <label for = "name">name</label><br>
+         <input type = "text" name = "name" placeholder = "name" /><br>
+         <label for = "cycle">water cycle</label><br>
+         <input name = "cycle" placeholder = "cycle"/><br>
+         <label for = "amount">amount</label><br>
+         <input type = "text" name = "amount" placeholder = "amount" /> ml Per Time<br>
+         <input type = "submit" value = "Submit" />
+      </form>
+   </body>
+</html>
