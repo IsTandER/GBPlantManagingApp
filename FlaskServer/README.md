@@ -1,5 +1,8 @@
 
 ## Referenced
+- Python VENV
+> https://velog.io/@kyle13/Python-가상환경-venv
+
 - Flask Example 
 > https://flask-restful.readthedocs.io/en/latest/quickstart.html
 
@@ -15,3 +18,4 @@
 ## ToDo
 - Structured Flask with BluePrint
 > https://realpython.com/flask-blueprint/
+
